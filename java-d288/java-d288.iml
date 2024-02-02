@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MAVEN_REPOSITORY$">
+      <sourceFolder url="file://$MAVEN_REPOSITORY$/edu" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/d288_backend" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/d288_backend/0.0.1-SNAPSHOT" isTestSource="false" />
+    </content>
+  </component>
+</module>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf2204a2-542b-4831-88fb-221d868e56ff" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SDCDZxgiTiW4HL8AZxSEG7KqmR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alcMD/Documents/WGU stuff/java-d288&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;800e9372660e0df479ce71e9df6bc768&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\alcMD\\Documents\\WGU stuff\\java-d288\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install:help" />
+      <command value="mvn install:install-file" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaD288Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="java-d288" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.danaem.javad288.JavaD288Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf2204a2-542b-4831-88fb-221d868e56ff" name="Changes" comment="" />
+      <created>1688671646394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688671646394</updated>
+      <workItem from="1688671647383" duration="7130000" />
+      <workItem from="1688915403415" duration="8481000" />
+      <workItem from="1689006035526" duration="15533000" />
+      <workItem from="1689092524110" duration="1529000" />
+      <workItem from="1689102851567" duration="10603000" />
+      <workItem from="1689882840417" duration="3174000" />
+      <workItem from="1689953299116" duration="20871000" />
+      <workItem from="1690379243166" duration="28444000" />
+      <workItem from="1690593337503" duration="527000" />
+      <workItem from="1690593876368" duration="1301000" />
+      <workItem from="1690640956168" duration="145000" />
+      <workItem from="1692307717633" duration="381000" />
+      <workItem from="1692998431016" duration="1278000" />
+      <workItem from="1706897144211" duration="476000" />
+    </task>
+    <task id="LOCAL-00001" summary="Parts A and B: sets up files and databases, connects to Git">
+      <option name="closed" value="true" />
+      <created>1689013005386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689013005386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Part C: creates four new packages and config">
+      <option name="closed" value="true" />
+      <created>1689013154653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689013154653</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Part D: creates entity classes to match UML diagram, populates and connects entity fields to database columns using Hibernate mapping">
+      <option name="closed" value="true" />
+      <created>1689020506102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689020506102</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Part E: adds repository interfaces for all entities to extend JpaRepository">
+      <option name="closed" value="true" />
+      <created>1689103563402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689103563402</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Part F: adds checkout services and purchase data class to services package">
+      <option name="closed" value="true" />
+      <created>1689111324836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689111324836</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Part E: adds cross origin support and rest controller">
+      <option name="closed" value="true" />
+      <created>1689119305381</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689119305381</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Part I: adds sample data for 5 customers; lots of bug fixes included, like divisions/country dropdown menus">
+      <option name="closed" value="true" />
+      <created>1690476386116</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690476386116</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Part F: fixes order tracking number which was not populating">
+      <option name="closed" value="true" />
+      <created>1690483271813</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690483271813</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Part D: adds enum data type and implements it in Cart and CheckoutServiceImpl">
+      <option name="closed" value="true" />
+      <created>1690488378379</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690488378379</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Part G: adds input validators for user input on customer form">
+      <option name="closed" value="true" />
+      <created>1690493753734</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690493753734</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Part H: adds CheckoutController controller with Post Mapping to handle purchase requests">
+      <option name="closed" value="true" />
+      <created>1690493830496</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690493830496</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Part H: adds CheckoutController controller with Post Mapping to handle purchase requests">
+      <option name="closed" value="true" />
+      <created>1690641044007</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690641044007</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Parts A and B: sets up files and databases, connects to Git" />
+    <MESSAGE value="Part C: creates four new packages and config" />
+    <MESSAGE value="Part D: creates entity classes to match UML diagram, populates and connects entity fields to database columns using Hibernate mapping" />
+    <MESSAGE value="Part E: adds repository interfaces for all entities to extend JpaRepository" />
+    <MESSAGE value="Part F: adds checkout services and purchase data class to services package" />
+    <MESSAGE value="Part E: adds cross origin support and rest controller" />
+    <MESSAGE value="Part I: adds sample data for 5 customers; lots of bug fixes included, like divisions/country dropdown menus" />
+    <MESSAGE value="Part F: fixes order tracking number which was not populating" />
+    <MESSAGE value="Part D: adds enum data type and implements it in Cart and CheckoutServiceImpl" />
+    <MESSAGE value="Part G: adds input validators for user input on customer form" />
+    <MESSAGE value="Part H: adds CheckoutController controller with Post Mapping to handle purchase requests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part H: adds CheckoutController controller with Post Mapping to handle purchase requests" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
